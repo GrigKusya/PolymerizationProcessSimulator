@@ -1,0 +1,49 @@
+﻿ <!--InputParamsDialog.xaml-->
+<Window x:Class="PolymerizationProcessSimulator.InputParamsDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        FontFamily="Microsoft Sans Serif"
+        FontSize="12"
+        Title="Ввод параметров процесса" Height="500" Width="800">
+    <DockPanel>
+        <ToolBar DockPanel.Dock="Top">
+            <Button Content="OK" Click="OK_Click"/>
+            <Separator/>
+            <Button Content="Сохранить" Click="Save_Click"/>
+            <Separator/>
+            <Button Content="Загрузить" Click="Load_Click"/>
+        </ToolBar>
+
+        <ScrollViewer>
+            <Grid Name="ParametersGrid" Margin="5">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                    <RowDefinition Height="Auto"/>
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="Auto"/>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="200"/>
+                </Grid.ColumnDefinitions>
+
+                <!-- Заголовки столбцов -->
+                <TextBlock Grid.Row="0" Grid.Column="0" Text="№" FontWeight="Bold" Margin="5"/>
+                <TextBlock Grid.Row="0" Grid.Column="1" Text="Параметр" FontWeight="Bold" Margin="5"/>
+                <TextBlock Grid.Row="0" Grid.Column="2" Text="Значение" FontWeight="Bold" Margin="5"/>
+                <TextBlock Grid.Row="0" Grid.Column="3" Text="Регулировка" FontWeight="Bold" Margin="5"/>
+            </Grid>
+        </ScrollViewer>
+    </DockPanel>
+</Window>

@@ -1,0 +1,5 @@
+/PolymerizationProcessSimulator/bin/
+/PolymerizationProcessSimulator/obj/
+*.exe
+/PolymerizationProcessSimulator/PolymerizationProcessSimulator/bin/Release/net8.0-windows/publish/win-x64/PolymerizationProcessSimulator.exe
+/PolymerizationProcessSimulatorMessAndEXE.rar

@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\polymerizationprocesssimulator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\polymerizationprocesssimulator.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grigo\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\grigo\\.nuget\\packages\\handycontrols\\3.6.0\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\models\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\models\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\properties\\settings.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\views\\inputparamsdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\views\\inputparamsdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\views\\chartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\views\\chartwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\views\\inputparamsdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\views\\inputparamsdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\views\\chartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\views\\chartwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\models\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\models\\viewmodellocator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\viewmodels\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\models\\processmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\models\\processmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\polymerizationprocesssimulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\polymerizationprocesssimulator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|d:\\repositories\\pereactor\\polymerizationprocesssimulator\\polymerizationprocesssimulator\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0243A4-7948-491B-8F8B-1761900956B6}|PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj|solutionrelative:polymerizationprocesssimulator\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewModelLocator.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Models\\ViewModelLocator.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Models\\ViewModelLocator.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Models\\ViewModelLocator.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Models\\ViewModelLocator.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T08:42:34.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Settings.Designer.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Properties\\Settings.Designer.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Properties\\Settings.Designer.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Properties\\Settings.Designer.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Properties\\Settings.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T14:13:03.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\grigo\\.nuget\\packages\\handycontrols\\3.6.0\\readme.txt",
+              "ToolTip": "C:\\Users\\grigo\\.nuget\\packages\\handycontrols\\3.6.0\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-06-02T10:01:07.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\grigo\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\grigo\\AppData\\Local\\Temp\\.vsdbgsrc\\b49ace08f4cd26a4f275d628999a0f91ccb8a1892704530d9e6f5bd1284082f1\\ResourcePart.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:58:13.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InputParamsDialog.xaml.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\InputParamsDialog.xaml.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Views\\InputParamsDialog.xaml.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\InputParamsDialog.xaml.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Views\\InputParamsDialog.xaml.cs",
+              "ViewState": "AgIAABYBAAAAAAAAAAAAAC0BAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:42:03.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChartWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\ChartWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Views\\ChartWindow.xaml.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\ChartWindow.xaml.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Views\\ChartWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:42:01.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InputParamsDialog.xaml",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\InputParamsDialog.xaml",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Views\\InputParamsDialog.xaml",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\InputParamsDialog.xaml",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Views\\InputParamsDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T05:41:57.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ChartWindow.xaml",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\ChartWindow.xaml",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Views\\ChartWindow.xaml",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\ChartWindow.xaml",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Views\\ChartWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T05:41:54.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ViewModelLocator.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Models\\ViewModelLocator.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Models\\ViewModelLocator.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Models\\ViewModelLocator.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Models\\ViewModelLocator.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAswGsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:41:48.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:41:45.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolymerizationProcessSimulator",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T05:41:42.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\ViewModels\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\ViewModels\\RelayCommand.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\ViewModels\\RelayCommand.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\ViewModels\\RelayCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:32:56.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProcessModel.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Models\\ProcessModel.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Models\\ProcessModel.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Models\\ProcessModel.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Models\\ProcessModel.cs",
+              "ViewState": "AgIAAKcAAAAAAAAAAADwvzEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:32:34.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAewEQAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:32:15.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PolymerizationProcessSimulator.csproj",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\PolymerizationProcessSimulator.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-02T05:27:33.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\App.xaml.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\App.xaml.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\App.xaml.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:19:22.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\App.xaml",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\App.xaml",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\App.xaml",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T05:19:20.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Views\\MainWindow.xaml",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\MainWindow.xaml",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Views\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-06-02T05:17:24.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PolymerizationProcessSimulator\\Views\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Repositories\\PEreactor\\PolymerizationProcessSimulator\\PolymerizationProcessSimulator\\Views\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PolymerizationProcessSimulator\\Views\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T05:17:23.641Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
